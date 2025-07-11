@@ -1,0 +1,1 @@
+Quantitative portfolio management and optimal portfolio construction with inspiration from hierachical risk parity, mean-variance and quantum particle dynamics to optimally build portfolios with repsect to poth hierachies and optimization goals
